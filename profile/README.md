@@ -1,100 +1,64 @@
-<div align="center">
+<p align="center">
+  <a href="https://meaningfulsales.com">
+    <img src="./profile/banner.png" alt="Meaningful Sales — GTM engineering for B2B tech companies" width="100%">
+  </a>
+</p>
 
-# 🎯 Meaningful Sales
+<p align="center">
+  <a href="https://meaningfulsales.com"><b>Website</b></a> ·
+  <a href="https://meaningfulsales.com/case-studies"><b>Case studies</b></a> ·
+  <a href="https://www.linkedin.com/company/meaningful-sales/"><b>LinkedIn</b></a> ·
+  <a href="mailto:hi@meaningfulsales.com"><b>Contact</b></a>
+</p>
 
-### **GTM Engineering & B2B Outbound Experts**
+<br>
 
-*We build automated B2B outbound sales systems powered by AI, market signals and hyper-personalization.*
+## Hi 👋
 
-[![Website](https://img.shields.io/badge/Website-meaningfulsales.com-0a0a0a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://meaningfulsales.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/meaningful-sales/)
-[![Email](https://img.shields.io/badge/Email-hi@meaningfulsales.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hi@meaningfulsales.com)
-[![Experience](https://img.shields.io/badge/Experience-10%2B%20years-success?style=for-the-badge)](https://meaningfulsales.com/case-studies)
+We're an outreach agency for B2B tech companies. We design and run outbound systems built around **market signals, AI research and hyper-personalization** — the kind that plug into your GTM instead of replacing it.
 
----
+Ten years in complex tech sales taught us one thing: outbound only works when it's _meaningful_. So that's what we build.
 
-</div>
+<br>
 
-## 🚀 About us
+## What we do
 
-**Meaningful Sales** is an outreach agency for B2B tech companies.
-We build outbound sales systems that plug into your existing go-to-market — we don't replace it, we make it convert.
+**Signal-based outreach.** Campaigns triggered by hiring, funding, tech stack and intent signals — we reach people the moment they have a reason to listen.
 
-Backed by **10+ years of experience in complex tech sales**, we combine AI, market signals and hyper-personalization to deliver campaigns that drive real pipeline, meetings and revenue.
+**Hyper-personalization at scale.** AI-written, research-backed messages. No templates, no spray-and-pray.
 
----
+**Marketing × sales integration.** Outbound that runs alongside your content, ABM and inbound — not in spite of them.
 
-## 🛠️ What we do
+**LinkedIn + email ABM.** Multi-channel sequences targeting named accounts that actually matter to your pipeline.
 
-| Service | Description |
-|---------|-------------|
-| 📡 **Signal-based outreach** | Campaigns triggered by hiring, funding, tech-stack and intent signals. |
-| 🤖 **Hyper-personalization at scale** | AI-written, research-backed messages — not templates. |
-| 🔗 **Marketing & sales integration** | Outbound aligned with content, ABM and inbound motion. |
-| 🎯 **ABM on LinkedIn & email** | Multi-channel sequences targeting named accounts. |
+<br>
 
----
+## Who we work with
 
-## 👥 Who we work with
+- **[Software houses](https://meaningfulsales.com/software-houses)** — dev shops and tech agencies selling custom software & engineering.
+- **[SaaS](https://meaningfulsales.com/saas)** — acquisition, signup enrichment, CS automation.
+- **[Service companies](https://meaningfulsales.com/services)** — consultancies running partner outreach and account expansion.
 
-<table>
-<tr>
-<td width="33%" align="center">
+<br>
 
-### 💻 Software Houses
-Dev shops & tech agencies — outbound that sells custom software and engineering services.
+## Selected work
 
-[Learn more →](https://meaningfulsales.com/software-houses)
+> "Real pipeline, real meetings, real revenue."
 
-</td>
-<td width="33%" align="center">
+We've built outbound systems for [Black Tiger](https://meaningfulsales.com/case-studies), [Ragnarson](https://meaningfulsales.com/case-studies) and [Hotseat.ai](https://meaningfulsales.com/case-studies), among others.
 
-### ☁️ SaaS Companies
-Acquisition, signup enrichment and customer success automation.
+**[→ Read the case studies](https://meaningfulsales.com/case-studies)**
 
-[Learn more →](https://meaningfulsales.com/saas)
+<br>
 
-</td>
-<td width="33%" align="center">
+## Work with us
 
-### 🤝 Service Companies
-Consultancies — partner outreach and account expansion.
+If you're a B2B tech company and outbound feels broken — or it's working but you've hit a ceiling — we'd love to talk.
 
-[Learn more →](https://meaningfulsales.com/services)
+**[hi@meaningfulsales.com](mailto:hi@meaningfulsales.com)**
 
-</td>
-</tr>
-</table>
+<br>
 
 ---
 
-## 📈 Proof
-
-Real outbound systems, real results. See what we built for:
-
-- 🐯 **Black Tiger**
-- 🚀 **Ragnarson**
-- 🤖 **Hotseat.ai**
-
-👉 [**Read the case studies**](https://meaningfulsales.com/case-studies)
-
----
-
-## 💬 Let's talk
-
-Looking to scale outbound that actually converts? We'd love to hear about your GTM.
-
-📧 **Email:** [hi@meaningfulsales.com](mailto:hi@meaningfulsales.com)
-🔗 **LinkedIn:** [linkedin.com/company/meaningful-sales](https://www.linkedin.com/company/meaningful-sales/)
-🌐 **Web:** [meaningfulsales.com](https://meaningfulsales.com/)
-
----
-
-<div align="center">
-
-**Meaningful Sales sp. z o.o.**
-Piłsudskiego 74/320, 50-020 Wrocław, Poland 🇵🇱
-
-⭐ *If you like what we do, give us a star!* ⭐
-
-</div>
+<sub>Meaningful Sales sp. z o.o. · Piłsudskiego 74/320, 50-020 Wrocław, Poland</sub>
