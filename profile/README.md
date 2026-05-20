@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://meaningfulsales.com">
-    <img src="./banner.png" alt="Meaningful Sales - GTM engineering for B2B tech companies" width="100%">
+    <img src="./banner.jpg" alt="Meaningful Sales - GTM engineering for B2B tech companies" width="100%">
   </a>
 </p>
 
